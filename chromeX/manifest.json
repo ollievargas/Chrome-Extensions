@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Ollie Ex",
+    "description": "Quick launch Ollie Media",
+    "version": "1.0.0",
+    "icons": {"128": "Capture.PNG"},
+    "browser_action": {
+        "default_icon": "lightning.PNG",
+        "default_popup": "ex.PNG"
+    },
+    "permissions": ["activeTab"]
+}
