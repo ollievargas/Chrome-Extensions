@@ -6,7 +6,7 @@
     "icons": {"128": "Capture.PNG"},
     "browser_action": {
         "default_icon": "lightning.PNG",
-        "default_popup": "ex.PNG"
+        "default_popup": "popup.html"
     },
     "permissions": ["activeTab"]
 }
